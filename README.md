@@ -1,2 +1,2 @@
 # ResearchAssignment1
-This repository is for where I will be uploading my assignments for Data Analytics and Data Science
+This repository contains my first assignment in Data Analysis and Data Science, where I explore fundamental concepts such as data collection, cleaning, analysis, and interpretation using practical examples.
